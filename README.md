@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 WHO I AM
 - 😄 Hi, I'm Kenadi! I'm a first-year Computer Information Systems student at TCU, Class of 2030. I'm originally from Dallas, TX now living in Fort Worth and I'm focusing on building my foundation in the technology field one step at a time.
 
